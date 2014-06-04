@@ -1,0 +1,11 @@
+#Tue Jun 03 06:25:51 JST 2014
+gun_rireki=
+hunterRank=8
+out=0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+matome=0
+hakkutuall=0
+sex=1
+type=1
+villageRank=6
+ken_rireki=7,35,84,170,187
+table=100
